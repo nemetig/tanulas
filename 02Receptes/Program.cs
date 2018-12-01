@@ -15,7 +15,14 @@ namespace _02Receptes
             Console.WriteLine("Pirospaprika");
 
             Console.ReadLine();
-    
+    //valtoztatas
+        
+        
+        //asd666
+
+            //aaa
+
+        
         }
     }
 }

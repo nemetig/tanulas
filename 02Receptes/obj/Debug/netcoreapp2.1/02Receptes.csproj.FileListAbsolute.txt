@@ -1,0 +1,11 @@
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/bin/Debug/netcoreapp2.1/02Receptes.deps.json
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/bin/Debug/netcoreapp2.1/02Receptes.runtimeconfig.json
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/bin/Debug/netcoreapp2.1/02Receptes.runtimeconfig.dev.json
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/bin/Debug/netcoreapp2.1/02Receptes.dll
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/bin/Debug/netcoreapp2.1/02Receptes.pdb
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/obj/Debug/netcoreapp2.1/02Receptes.csprojAssemblyReference.cache
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/obj/Debug/netcoreapp2.1/02Receptes.csproj.CoreCompileInputs.cache
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/obj/Debug/netcoreapp2.1/02Receptes.AssemblyInfoInputs.cache
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/obj/Debug/netcoreapp2.1/02Receptes.AssemblyInfo.cs
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/obj/Debug/netcoreapp2.1/02Receptes.dll
+/Users/gergelynemeti/Documents/GitHub/tanulas/02Receptes/obj/Debug/netcoreapp2.1/02Receptes.pdb
