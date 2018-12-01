@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{6A058A88-2F4E-4870-BB32-1C5A10DCB68A}|Default">
   <MonoDevelop.Ide.ItemProperties.01Bevezetes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="02Receptes/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tanulas Status">
     <Files>
-      <File FileName="02Receptes/Program.cs" Line="24" Column="17" />
+      <File FileName="02Receptes/Program.cs" Line="25" Column="24" />
+      <File FileName="tanulas Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.02Receptes PreferredExecutionTarget="MonoDevelop.Default" />
