@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Bevezetes", "01Bevezetes\01Bevezetes.csproj", "{DC07BF62-636A-47B2-BD45-38ED3AEFBE1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Receptes", "02Receptes\02Receptes.csproj", "{6A058A88-2F4E-4870-BB32-1C5A10DCB68A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC07BF62-636A-47B2-BD45-38ED3AEFBE1C}.Debug|x86.ActiveCfg = Debug|x86
+		{DC07BF62-636A-47B2-BD45-38ED3AEFBE1C}.Debug|x86.Build.0 = Debug|x86
+		{DC07BF62-636A-47B2-BD45-38ED3AEFBE1C}.Release|x86.ActiveCfg = Release|x86
+		{DC07BF62-636A-47B2-BD45-38ED3AEFBE1C}.Release|x86.Build.0 = Release|x86
+		{6A058A88-2F4E-4870-BB32-1C5A10DCB68A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6A058A88-2F4E-4870-BB32-1C5A10DCB68A}.Debug|x86.Build.0 = Debug|Any CPU
+		{6A058A88-2F4E-4870-BB32-1C5A10DCB68A}.Release|x86.ActiveCfg = Release|Any CPU
+		{6A058A88-2F4E-4870-BB32-1C5A10DCB68A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
